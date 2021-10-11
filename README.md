@@ -1,1 +1,1 @@
-# przelicznik_walut
+Program przeliczający kursy walut.
